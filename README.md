@@ -1,2 +1,3 @@
 # learning
-trying to learn to create new repository on github
+trying to learn  create new repository on github
+-author of Subhash Gowda S
